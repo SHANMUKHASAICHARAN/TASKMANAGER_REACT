@@ -2,14 +2,16 @@
 
 DEPLOYMENT LINK:https://react-taskmanager1.netlify.app/
 
-Description:
-
-This project is a web-based Task Manager application built using React. It allows users to securely log in, add new tasks, and view or search through existing tasks. The app emphasizes core React development concepts such as component-based architecture, client-side routing, state management, and localStorage for data persistence. It provides a clean, intuitive user interface for managing daily tasks efficiently.
-
 Login Credentials:
 
 Username: sai@gmail.com
 Password: sai2003
+
+Description:
+
+This project is a web-based Task Manager application built using React. It allows users to securely log in, add new tasks, and view or search through existing tasks. The app emphasizes core React development concepts such as component-based architecture, client-side routing, state management, and localStorage for data persistence. It provides a clean, intuitive user interface for managing daily tasks efficiently.
+
+
 
 Features:
 
