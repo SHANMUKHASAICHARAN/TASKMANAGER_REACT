@@ -6,7 +6,7 @@ LOGIN CREDENTIALS:
 Username: sai@gmail.com
 Password: sai2003
 
-DESCRIPYION:
+DESCRIPTION:
 
 This project is a web-based Task Manager application built using React. It allows users to securely log in, add new tasks, and view or search through existing tasks. The app emphasizes core React development concepts such as component-based architecture, client-side routing, state management, and localStorage for data persistence. It provides a clean, intuitive user interface for managing daily tasks efficiently.
 
@@ -51,7 +51,7 @@ Use backend/database to store data permanently.
 Add pagination for large lists of tasks.
 
 
-Acknowledgments:
+ACKNOWLEDGMENTS:
 
 Inspired by task management use cases in productivity apps.
 Thanks to the React documentation and community tutorials.
