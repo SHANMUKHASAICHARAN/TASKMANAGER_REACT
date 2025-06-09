@@ -2,8 +2,7 @@
 
 DEPLOYMENT LINK:https://react-taskmanager1.netlify.app/
 
-Login Credentials:
-
+LOGIN CREDENTIALS:
 Username: sai@gmail.com
 Password: sai2003
 
